@@ -3,5 +3,15 @@
     "libraryIdentifier" : "71e3a5b5ba615050428ff4fbf566e497",
     "format" : "model",
     "displayName" : "jb_shoe.usdz"
+  },
+  {
+    "libraryIdentifier" : "089d4ffdbb0a1cc914c83126881c535d",
+    "format" : "model",
+    "displayName" : "StreetHawker_left_medium.usdz"
+  },
+  {
+    "libraryIdentifier" : "5b9ac1532a0afb24fccd2e26a1186d86",
+    "format" : "model",
+    "displayName" : "StreetHawker_right_medium.usdz"
   }
 ]

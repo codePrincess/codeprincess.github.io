@@ -194,7 +194,7 @@
                                           "moveEase" : "easeInOut",
                                           "respectPhysics" : false,
                                           "target" : [
-                                            "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
+                                            "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
                                           ]
                                         },
                                         "name" : {
@@ -232,7 +232,7 @@
                                           "duration" : 9.6330661773681641,
                                           "iterations" : 2,
                                           "target" : [
-                                            "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
+                                            "03260CF9-806B-49A0-97D0-8A957A9C707C"
                                           ]
                                         },
                                         "name" : {
@@ -271,7 +271,7 @@
                                           "moveEase" : "easeInOut",
                                           "respectPhysics" : false,
                                           "target" : [
-                                            "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
+                                            "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
                                           ]
                                         },
                                         "name" : {
@@ -302,16 +302,16 @@
                       "isEnabled" : true,
                       "isLooping" : false,
                       "isModal" : false,
-                      "name" : "come close and spin",
+                      "name" : "Come close and spin",
                       "triggers" : [
                         {
                           "__content" : [
                             {
                               "configurationBox" : {
                                 "configuration" : {
-                                  "distance" : 0.10000000149011612,
+                                  "distance" : 0.20000000298023224,
                                   "target" : [
-                                    "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
+                                    "03260CF9-806B-49A0-97D0-8A957A9C707C"
                                   ],
                                   "type" : 0
                                 },
@@ -354,20 +354,20 @@
                                           "isTransformInitKeyPath" : true,
                                           "linearCoefficient" : 1,
                                           "location" : [
-                                            0.17982023954391479,
-                                            0.26815342903137207,
-                                            0
+                                            0.27939736843109131,
+                                            0.062604710459709167,
+                                            0.01893424428999424
                                           ],
                                           "moveEase" : "easeInOut",
                                           "orientation" : [
                                             0,
+                                            0.25865235924720764,
                                             0,
-                                            0,
-                                            1
+                                            0.96597045660018921
                                           ],
                                           "respectPhysics" : false,
                                           "target" : [
-                                            "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
+                                            "03260CF9-806B-49A0-97D0-8A957A9C707C"
                                           ]
                                         },
                                         "name" : {
@@ -397,7 +397,7 @@
                                     {
                                       "configurationBox" : {
                                         "configuration" : {
-                                          "duration" : 0.69999998807907104
+                                          "duration" : 0.20000000298023224
                                         },
                                         "name" : {
                                           "type" : "wait"
@@ -430,20 +430,20 @@
                                           "isTransformInitKeyPath" : true,
                                           "linearCoefficient" : 1,
                                           "location" : [
-                                            0.28117159008979797,
-                                            0.26815342903137207,
-                                            0
+                                            0.37818831205368042,
+                                            0.055693380534648895,
+                                            0.14887794852256775
                                           ],
                                           "moveEase" : "easeInOut",
                                           "orientation" : [
                                             0,
+                                            0.13035504519939423,
                                             0,
-                                            0,
-                                            1
+                                            0.99146735668182373
                                           ],
                                           "respectPhysics" : false,
                                           "target" : [
-                                            "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
+                                            "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
                                           ]
                                         },
                                         "name" : {
@@ -463,82 +463,6 @@
                             }
                           ],
                           "__version" : 1
-                        },
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
-                                          "duration" : 0.69999998807907104
-                                        },
-                                        "name" : {
-                                          "type" : "wait"
-                                        }
-                                      },
-                                      "identifier" : "ECCFE6E7-06BF-4A33-97E4-58685E10029E",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "E3ABF7D4-CB01-4320-BFBD-3A98213EDEB5",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        },
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
-                                          "angularCoefficient" : 1,
-                                          "duration" : 1,
-                                          "isTransformInitKeyPath" : true,
-                                          "linearCoefficient" : 1,
-                                          "location" : [
-                                            0.38729766011238098,
-                                            0.26815342903137207,
-                                            0
-                                          ],
-                                          "moveEase" : "easeInOut",
-                                          "orientation" : [
-                                            0,
-                                            0,
-                                            0,
-                                            1
-                                          ],
-                                          "respectPhysics" : false,
-                                          "target" : [
-                                            "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
-                                          ]
-                                        },
-                                        "name" : {
-                                          "arguments" : "absolute",
-                                          "type" : "transform"
-                                        }
-                                      },
-                                      "identifier" : "163DB25D-7C84-40C6-9351-79DE4CB7413D",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "FE163711-D209-43A1-920D-916BDA1FCF1D",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
                         }
                       ],
                       "color" : [
@@ -551,7 +475,7 @@
                       "isEnabled" : true,
                       "isLooping" : false,
                       "isModal" : false,
-                      "name" : "move first shoe",
+                      "name" : "Make step",
                       "triggers" : [
                         {
                           "__content" : [
@@ -559,7 +483,7 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
+                                    "03260CF9-806B-49A0-97D0-8A957A9C707C"
                                   ]
                                 },
                                 "name" : "tapTarget"
@@ -596,20 +520,63 @@
                                     {
                                       "configurationBox" : {
                                         "configuration" : {
-                                          "duration" : 0.5
+                                          "angularCoefficient" : 1,
+                                          "duration" : 1,
+                                          "isTransformInitKeyPath" : true,
+                                          "linearCoefficient" : 1,
+                                          "moveEase" : "easeInOut",
+                                          "orientation" : [
+                                            1,
+                                            0,
+                                            0,
+                                            -4.3711388286737929e-08
+                                          ],
+                                          "respectPhysics" : false,
+                                          "target" : [
+                                            "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
+                                          ]
                                         },
                                         "name" : {
-                                          "type" : "wait"
+                                          "arguments" : "absolute",
+                                          "type" : "transform"
                                         }
                                       },
-                                      "identifier" : "DAD7E223-336C-4E6A-ABA4-4586BE353E04",
+                                      "identifier" : "5998AAFE-7A4E-43A0-A0C9-050EDB02676F",
                                       "isEnabled" : true
                                     }
                                   ],
                                   "__version" : 1
                                 }
                               ],
-                              "identifier" : "D728A336-7AAE-4622-A332-72C2A7AFA18A",
+                              "identifier" : "7DB38531-B32A-4110-A062-3CBC2E65692F",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        },
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "duration" : 2
+                                        },
+                                        "name" : {
+                                          "type" : "wait"
+                                        }
+                                      },
+                                      "identifier" : "4F2B8B66-4D76-40B2-82FB-70A997C7CC32",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "4498C8AF-0A80-4945-BB54-38B496F20B04",
                               "isEnabled" : true
                             }
                           ],
@@ -628,11 +595,6 @@
                                           "duration" : 1,
                                           "isTransformInitKeyPath" : true,
                                           "linearCoefficient" : 1,
-                                          "location" : [
-                                            0.29114642739295959,
-                                            0.26815342903137207,
-                                            0.1050797700881958
-                                          ],
                                           "moveEase" : "easeInOut",
                                           "orientation" : [
                                             0,
@@ -642,7 +604,7 @@
                                           ],
                                           "respectPhysics" : false,
                                           "target" : [
-                                            "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
+                                            "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
                                           ]
                                         },
                                         "name" : {
@@ -650,166 +612,14 @@
                                           "type" : "transform"
                                         }
                                       },
-                                      "identifier" : "D5DA554A-D9F7-4E2F-86DB-A743243E6507",
+                                      "identifier" : "4D8915CA-8ABC-4962-859C-99EDB3A4503E",
                                       "isEnabled" : true
                                     }
                                   ],
                                   "__version" : 1
                                 }
                               ],
-                              "identifier" : "21F7BDDF-7672-42A1-8997-CAD81C54B19A",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        },
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
-                                          "duration" : 0.5
-                                        },
-                                        "name" : {
-                                          "type" : "wait"
-                                        }
-                                      },
-                                      "identifier" : "12791D0E-93BA-4D90-83E6-C4D4F32A250F",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "B3A571DB-1B41-41B9-ABA9-75355BD274B9",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        },
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
-                                          "angularCoefficient" : 1,
-                                          "duration" : 1,
-                                          "isTransformInitKeyPath" : true,
-                                          "linearCoefficient" : 1,
-                                          "location" : [
-                                            0.41005882620811462,
-                                            0.26815342903137207,
-                                            0.1050797700881958
-                                          ],
-                                          "moveEase" : "easeInOut",
-                                          "orientation" : [
-                                            0,
-                                            0,
-                                            0,
-                                            1
-                                          ],
-                                          "respectPhysics" : false,
-                                          "target" : [
-                                            "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
-                                          ]
-                                        },
-                                        "name" : {
-                                          "arguments" : "absolute",
-                                          "type" : "transform"
-                                        }
-                                      },
-                                      "identifier" : "BE099E1A-B241-4947-9A07-59AB023DF3F7",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "81BB648F-B0E3-4221-98CF-E4CAB7712A01",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        },
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
-                                          "duration" : 0.5
-                                        },
-                                        "name" : {
-                                          "type" : "wait"
-                                        }
-                                      },
-                                      "identifier" : "063E4495-9061-4578-803C-FD637D6A10A0",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "CE878187-688E-486A-A547-C6C9C3CE756E",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        },
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
-                                          "angularCoefficient" : 1,
-                                          "duration" : 1,
-                                          "isTransformInitKeyPath" : true,
-                                          "linearCoefficient" : 1,
-                                          "location" : [
-                                            0.50601303577423096,
-                                            0.26815342903137207,
-                                            0.1050797700881958
-                                          ],
-                                          "moveEase" : "easeInOut",
-                                          "orientation" : [
-                                            0,
-                                            0,
-                                            0,
-                                            1
-                                          ],
-                                          "respectPhysics" : false,
-                                          "target" : [
-                                            "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
-                                          ]
-                                        },
-                                        "name" : {
-                                          "arguments" : "absolute",
-                                          "type" : "transform"
-                                        }
-                                      },
-                                      "identifier" : "5EEDDCCA-23FC-4A25-99E9-C10C7D09F5A2",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "48BE8DC1-306C-4628-B486-B440FBDC67F5",
+                              "identifier" : "9CE8416E-7DC6-47FA-8219-A9B2C1652364",
                               "isEnabled" : true
                             }
                           ],
@@ -822,11 +632,11 @@
                         0.99215686321258545,
                         1
                       ],
-                      "identifier" : "843629B7-C633-414E-ADD4-524AD9355CF1",
+                      "identifier" : "3FD20AE6-4FFB-441F-96FF-A72D76F68143",
                       "isEnabled" : true,
                       "isLooping" : false,
                       "isModal" : false,
-                      "name" : "move second shoe",
+                      "name" : "Turn around",
                       "triggers" : [
                         {
                           "__content" : [
@@ -834,12 +644,12 @@
                               "configurationBox" : {
                                 "configuration" : {
                                   "target" : [
-                                    "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
+                                    "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
                                   ]
                                 },
                                 "name" : "tapTarget"
                               },
-                              "identifier" : "EB62A8CC-DDD5-42EE-BBCF-F9E33C3671AD",
+                              "identifier" : "74C954E9-3932-4659-A50E-F78B99D7F2DA",
                               "isEnabled" : true
                             }
                           ],
@@ -860,7 +670,8 @@
               "material" : "concrete",
               "overrides" : {
                 "children" : {
-                  "05BCD919-8CC7-494D-ABC8-A113BF0146C8" : {
+                  "05BCD919-8CC7-494D-ABC8-A113BF0146C8" : null,
+                  "76AA8319-378D-4DFC-BD39-1C8CEDE16A7A" : {
                     "overrides" : {
                       "children" : {
                         "USDScene" : {
@@ -884,7 +695,7 @@
                                 "url",
                                 {
                                   "typeName" : "String",
-                                  "value" : "model:71e3a5b5ba615050428ff4fbf566e497\/jb_shoe.usdz"
+                                  "value" : "model:089d4ffdbb0a1cc914c83126881c535d\/StreetHawker_left_medium.usdz"
                                 }
                               ],
                               [
@@ -904,7 +715,7 @@
                                 "RuntimeIdentifier",
                                 {
                                   "typeName" : "UUID",
-                                  "value" : "E1858C94-19CE-4F77-8E1D-20043CE9DB95"
+                                  "value" : "BDF822C9-552B-4091-BB67-54C8797802E8"
                                 }
                               ]
                             ]
@@ -940,28 +751,28 @@
                           "RuntimeIdentifier",
                           {
                             "typeName" : "UUID",
-                            "value" : "508FF220-9CDF-48D3-98FC-F8ED1D70D37A"
+                            "value" : "03260CF9-806B-49A0-97D0-8A957A9C707C"
                           }
                         ]
                       ]
                     },
                     "transform" : {
                       "matrix" : [
-                        0.56832844018936157,
+                        0.86602538824081421,
+                        0,
+                        -0.49999982118606567,
                         0,
                         0,
+                        1,
                         0,
                         0,
-                        0.56832844018936157,
+                        0.49999982118606567,
                         0,
+                        0.86602538824081421,
                         0,
-                        0,
-                        0,
-                        0.56832844018936157,
-                        0,
-                        0.078881561756134033,
-                        0.26815342903137207,
-                        0,
+                        0.078543864190578461,
+                        0.062604695558547974,
+                        0.0074372254312038422,
                         1
                       ]
                     }
@@ -1029,7 +840,7 @@
                           "palette",
                           {
                             "typeName" : "String",
-                            "value" : "1"
+                            "value" : "2"
                           }
                         ],
                         [
@@ -1317,21 +1128,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        0.53311467170715332,
+                        0.55192101001739502,
                         0,
-                        0.14284783601760864,
+                        -1.6307805594806268e-07,
                         0,
                         0,
                         0.55192112922668457,
                         0,
                         0,
-                        -0.14284783601760864,
+                        1.6307805594806268e-07,
                         0,
-                        0.53311467170715332,
+                        0.55192101001739502,
                         0,
-                        -0.089506268501281738,
+                        -0.12704820930957794,
                         0,
-                        -0.24874338507652283,
+                        -0.18772852420806885,
                         1
                       ]
                     }
@@ -1512,118 +1323,13 @@
                         0.24836830794811249,
                         0,
                         0.052689369767904282,
-                        0.12332223355770111,
-                        -0.042750038206577301,
+                        0.16232813894748688,
+                        0.043123085051774979,
                         1
                       ]
                     }
                   },
-                  "977CB87B-8D69-447A-9836-FAD1540244D4" : {
-                    "overrides" : {
-                      "children" : {
-                        "USDScene" : {
-                          "overrides" : {
-                            "arguments" : [
-                              [
-                                "includeSceneScaling",
-                                {
-                                  "typeName" : "Bool",
-                                  "value" : false
-                                }
-                              ],
-                              [
-                                "subpath",
-                                {
-                                  "typeName" : "String",
-                                  "value" : ""
-                                }
-                              ],
-                              [
-                                "url",
-                                {
-                                  "typeName" : "String",
-                                  "value" : "model:71e3a5b5ba615050428ff4fbf566e497\/jb_shoe.usdz"
-                                }
-                              ],
-                              [
-                                "withDescendants",
-                                {
-                                  "typeName" : "Bool",
-                                  "value" : true
-                                }
-                              ]
-                            ],
-                            "factory" : {
-                              "identifier" : "com.apple.af.FileImportAssetFactory",
-                              "version" : "0.0"
-                            },
-                            "runtimeAttributes" : [
-                              [
-                                "RuntimeIdentifier",
-                                {
-                                  "typeName" : "UUID",
-                                  "value" : "3A9F6B21-3FDC-42CE-841F-963665CF03DE"
-                                }
-                              ]
-                            ]
-                          },
-                          "transform" : {
-                            "matrix" : [
-                              1,
-                              0,
-                              0,
-                              0,
-                              0,
-                              1,
-                              0,
-                              0,
-                              0,
-                              0,
-                              1,
-                              0,
-                              0,
-                              0,
-                              0,
-                              1
-                            ]
-                          }
-                        }
-                      },
-                      "factory" : {
-                        "identifier" : "com.apple.af.Group",
-                        "version" : "0.0"
-                      },
-                      "runtimeAttributes" : [
-                        [
-                          "RuntimeIdentifier",
-                          {
-                            "typeName" : "UUID",
-                            "value" : "D9063B0B-D4FD-4593-ADF3-5B8C4B3C440F"
-                          }
-                        ]
-                      ]
-                    },
-                    "transform" : {
-                      "matrix" : [
-                        0.56832844018936157,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0.56832844018936157,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0.56832844018936157,
-                        0,
-                        0.19779399037361145,
-                        0.26815342903137207,
-                        0.1050797700881958,
-                        1
-                      ]
-                    }
-                  },
+                  "977CB87B-8D69-447A-9836-FAD1540244D4" : null,
                   "Cube" : null,
                   "E1DB8B41-4B5B-403F-AC23-B3AAB59D6F44" : {
                     "overrides" : {
@@ -1632,7 +1338,7 @@
                           "backgroundColors",
                           {
                             "typeName" : "String",
-                            "value" : "5"
+                            "value" : "7"
                           }
                         ],
                         [
@@ -1674,7 +1380,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Polca Dot Edition\n(highly limited)\n350€"
+                            "value" : "Nike Street Hawker\n(highly limited)\n350€"
                           }
                         ],
                         [
@@ -1800,8 +1506,114 @@
                         0.24836830794811249,
                         0,
                         0.12629933655261993,
-                        0.10010381042957306,
-                        -0.025931499898433685,
+                        0.13910971581935883,
+                        0.059941619634628296,
+                        1
+                      ]
+                    }
+                  },
+                  "FE263CA1-0E9B-465B-BA7A-64BB9C4DD610" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:5b9ac1532a0afb24fccd2e26a1186d86\/StreetHawker_right_medium.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "114F4E73-8EBD-4ADF-9743-6EA6F3B9D058"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "0D7B36AB-D592-41FD-A281-35CF77FFFF56"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.96592575311660767,
+                        0,
+                        -0.25881874561309814,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0.25881874561309814,
+                        0,
+                        0.96592575311660767,
+                        0,
+                        0.17525327205657959,
+                        0.055693376809358597,
+                        0.13852445781230927,
                         1
                       ]
                     }
@@ -1822,21 +1634,21 @@
               "title" : "Scene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.91867619752883911,
-                  2.3273998284167874e-09,
-                  0.39501160383224487,
+                  0.98627752065658569,
+                  -5.2218629420508478e-10,
+                  0.16509611904621124,
                   0,
-                  0.1144995391368866,
-                  0.95706790685653687,
-                  -0.26629078388214111,
+                  0.071543268859386444,
+                  0.90122932195663452,
+                  -0.42739588022232056,
                   0,
-                  -0.37805294990539551,
-                  0.28986361622810364,
-                  0.87923556566238403,
+                  -0.14878949522972107,
+                  0.43334248661994934,
+                  0.88886213302612305,
                   0,
-                  -0.16438478231430054,
-                  0.26429665088653564,
-                  0.5284155011177063,
+                  0.087682843208312988,
+                  0.21847864985466003,
+                  0.53843355178833008,
                   1
                 ],
                 "sceneTransform" : [
